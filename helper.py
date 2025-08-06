@@ -101,7 +101,7 @@ def chat_analysis(selected_user, df):
     if selected_user != 'Overall':
         df = df[df['user'] == selected_user]
     # Only use the last 20 messages
-    chat_messages = "\n".join(df["message"].astype(str).tail(20))
+    chat_messages = "\n".join(df["message"].astype(str).tail(50))
     
     prompt = PromptTemplate(
         input_variables=["chat_messages"],
