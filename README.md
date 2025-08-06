@@ -6,7 +6,7 @@ An intelligent system that analyzes WhatsApp chats to extract meaningful insight
 
 # How to USE it
 
-whatever User you select or Overall , the chat analysis and chat summary will be provided of that selected user only whether it is a particular User or Overall chat 
+Whatever User you Select or Overall , the Chat analysis and Chat summary will be provided of that selected user only whether it is a particular User or Overall chat 
 ## 🚀 Project Overview
 
 This project demonstrates a full AI pipeline for processing, analyzing, and interacting with WhatsApp chat data. From raw text exports to insightful visualizations and interactive summaries, it leverages a wide range of tools in data science, NLP, and LLM-based applications.
