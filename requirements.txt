@@ -1,12 +1,10 @@
 pip>=25.2
 setuptools>=68.0
+
 streamlit
 matplotlib
 seaborn
-urlextract
-wordcloud
+urlextract 
 pandas
 emoji
-langchain_groq
-langchain.prompts
-langchain
+langchain  
