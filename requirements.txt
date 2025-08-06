@@ -1,3 +1,5 @@
+pip>=25.2
+setuptools>=68.0
 streamlit
 matplotlib
 seaborn
