@@ -6,7 +6,7 @@ An intelligent system that analyzes WhatsApp chats to extract meaningful insight
 
 # How to USE it
 
-1. Upload the Chat file of whatsapp group or personal chat.
+1. Upload the Chat file of Whatsapp group or Personal chat.
 2. Then Select User for Which the Analysis will be done. It can be any particular User of that group or Overall Chat option.
 3. Whatever User you Select or Overall , the Chat analysis and Chat summary will be provided of that selected user only whether it is a particular User or Overall chat.
 
