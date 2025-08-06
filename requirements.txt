@@ -8,3 +8,4 @@ urlextract
 pandas
 emoji
 langchain  
+langchain_groq
