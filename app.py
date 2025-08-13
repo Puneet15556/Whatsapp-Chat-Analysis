@@ -32,7 +32,7 @@ if uploaded_file is not None:
             st.title(num_messages)
         with col2:
             st.header("Total Words")
-            st.title("words")
+            st.title(words)
         with col3:
             st.header("Media Shared")
             st.title(num_media_messages)
